@@ -1,0 +1,22 @@
+Insert into prodoutwarehouse values (null, 2301, '운동화', '2013-5-15');
+Insert into prodoutwarehouse values (null, 2302, '모니터', '2017-12-30');
+Insert into prodoutwarehouse values (null, 2303, '사이다', '2014-5-20');
+Insert into prodoutwarehouse values (null, 2304, '운동화', '2019-1-5');
+Insert into prodoutwarehouse values (null, 2305, '마우스', '2014-8-15');
+Insert into prodoutwarehouse values (null, 2306, '헤드셋', '2016-12-10');
+Insert into prodoutwarehouse values (null, 2307, '키보드', '2017-4-10');
+Insert into prodoutwarehouse values (null, 2308, '청바지', '2015-6-12');
+Insert into prodoutwarehouse values (null, 2309, '청바지', '2016-3-25');
+Insert into prodoutwarehouse values (null, 2311, '맥주', '2014-9-10');
+Insert into prodoutwarehouse values (null, 2310, '우유', '2015-11-3');
+Insert into prodoutwarehouse values (null, 2312, '모니터', '2019-10-20');
+Insert into prodoutwarehouse values (null, 2313, '마우스', '2017-10-9');
+Insert into prodoutwarehouse values (null, 2314, '운동화', '2015-9-30');
+Insert into prodoutwarehouse values (null, 2315, '헤드셋', '2017-12-15');
+Insert into prodoutwarehouse values (null, 2316, '스피커', '2016-5-1');
+Insert into prodoutwarehouse values (null, 2317, '청바지', '2018-4-9');
+Insert into prodoutwarehouse values (null, 2318, '사이다', '2019-5-20');
+Insert into prodoutwarehouse values (null, 2319, '우유', '2019-6-12');
+Insert into prodoutwarehouse values (null, 2320, '청바지', '2018-12-25');
+
+select * from prodoutwarehouse;

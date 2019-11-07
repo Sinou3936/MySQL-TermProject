@@ -1,0 +1,22 @@
+Insert into prodtbl values (NULL, 'KCS','운동화',null,20,3);
+Insert into prodtbl values (NULL, 'LMJ','모니터','전자',200,1);
+Insert into prodtbl values (NULL, 'KYH','사이다','음료',3,10);
+Insert into prodtbl values (NULL, 'HHJ','운동화',null,20,5);
+Insert into prodtbl values (NULL, 'KMG','마우스','전자',15,4);
+Insert into prodtbl values (NULL, 'KCS','키보드','전자',17,2);
+Insert into prodtbl values (NULL, 'SRE','헤드셋','전자',12,8);
+Insert into prodtbl values (NULL, 'PAK','청바지','의류',50,1);
+Insert into prodtbl values (NULL, 'LEA','청바지','의류',50,3);
+Insert into prodtbl values (NULL, 'SSH','우유','유제품',5,4);
+Insert into prodtbl values (NULL, 'HDE','맥주','음료',10,9);
+Insert into prodtbl values (NULL, 'HDE','모니터','전자',200,2);
+Insert into prodtbl values (NULL, 'JSM','마우스','전자',15,3);
+Insert into prodtbl values (NULL, 'LYM','운동화',null,20,5);
+Insert into prodtbl values (NULL, 'GGM','헤드셋','전자',12,3);
+Insert into prodtbl values (NULL, 'HGD','스피커','전자',35,2);
+Insert into prodtbl values (NULL, 'HGD','청바지','의류',50,3);
+Insert into prodtbl values (NULL, 'LEA','사이다','음료',3,15);
+Insert into prodtbl values (NULL, 'KKH','우유','유제품',5,10);
+Insert into prodtbl values (NULL, 'HHJ','청바지','의류',20,5);
+
+select * from prodtbl;
